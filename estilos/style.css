@@ -7,6 +7,9 @@
 body{
     background-color: rgb(162, 167, 180);
 }
+header{
+    height: 100px;
+}
 main{
     background-color: whitesmoke;
     width: 600px;
@@ -14,5 +17,19 @@ main{
     box-shadow: 3px 3px 6px rgba(80, 80, 85, 0.863);
     border-radius: 15px;
     padding: 15px;
+
+}
+h1,h2 {
+    color: rgb(62, 0, 121);
+}
+#logo{
+    float: left;
+}
+img{
+    float: right;
+}
+p{
+    text-align: justify;
+    text-indent: 10px;
 
 }
